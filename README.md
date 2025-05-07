@@ -63,8 +63,11 @@ Whether I'm building scalable applications, exploring bleeding-edge technologies
 
 
 ## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveryCryptoo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EveryCryptoo&layout=compact&theme=radical)
+## 🔢 GitHub Highlights
+- 🧠 50+ private repositories across AI, Web3, and SaaS domains
+- 🔧 Specialized in building end-to-end products using modern stacks
+- 📊 Proven history of frequent commits and PRs in production apps
+
 
 ---
 
