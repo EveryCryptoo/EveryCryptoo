@@ -62,8 +62,7 @@ Whether I'm building scalable applications, exploring bleeding-edge technologies
 ---
 
 
-## 📈 My GitHub Stats
-## 🔢 GitHub Highlights
+## 📈 My GitHub Highlights
 - 🧠 40+ private repositories across AI, Web3, and SaaS domains
 - 🔧 Specialized in building end-to-end products using modern stacks
 - 📊 Proven history of frequent commits and PRs in production apps
