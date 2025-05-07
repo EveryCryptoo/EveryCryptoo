@@ -24,8 +24,6 @@ Whether I'm building scalable applications, exploring bleeding-edge technologies
 ---
 
 ## 💌 Connect With Me
-- **LinkedIn:** [linkedin.com/in/everycryptoo](https://linkedin.com/in/everycryptoo)
-- 
 - **Website:** [Byte & Stack ](https://byteandstack.com)  
 
 Let’s collaborate, learn, and build the future together! 🌌
