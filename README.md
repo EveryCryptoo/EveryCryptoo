@@ -1,7 +1,7 @@
 # 👋 Hi, I'm EveryCryptoo!
 
 ## 🚀 About Me
-I'm a passionate developer, tech enthusiast, and lifelong learner with a knack for transforming ideas into reality through code. My journey in tech is fueled by curiosity, creativity, and a relentless drive to innovate. 
+I'm a developer, tech enthusiast, and lifelong learner with a knack for transforming ideas into reality through code. My journey in tech is fueled by curiosity, creativity, and a relentless drive to innovate. 
 
 Whether I'm building scalable applications, exploring bleeding-edge technologies, or architecting systems that push the boundaries of what's possible, my focus is always on crafting elegant and efficient solutions.
 
