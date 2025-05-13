@@ -70,7 +70,7 @@ Whether I'm building scalable applications, exploring bleeding-edge technologies
 
 ---
 
-## 💌 Connect With Me
-- **Website:** [Byte & Stack ](https://byteandstack.com)  
+
+
 
 Let’s collaborate, learn, and build the future together! 🌌
