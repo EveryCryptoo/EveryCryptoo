@@ -74,6 +74,4 @@ Whether I'm building scalable applications, exploring bleeding-edge technologies
 
 
 Let’s collaborate, learn, and build the future together! 🌌
-My Website :  <a href="byteandstack.com"> Byte & Stak </a>
-<br> My Upwork Profile: 
-<a href="https://www.upwork.com/freelancers/fullstackandaideveloper">Every Cryptoo </a>
+
