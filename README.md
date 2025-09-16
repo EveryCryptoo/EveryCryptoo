@@ -74,4 +74,5 @@ Whether I'm building scalable applications, exploring bleeding-edge technologies
 
 
 Let’s collaborate, learn, and build the future together! 🌌
+<a href="https://upwork.com/freelancers/fullstackandaideveloper"> Upwork Profile<a>
 
